@@ -1,0 +1,28 @@
+{
+  "reference": "Xu et al. (2026), Habitat International 171, 103778",
+  "years": [
+    2000,
+    2020
+  ],
+  "seasons": [
+    "summer",
+    "winter"
+  ],
+  "slope_classes": [
+    "0-5",
+    "5-10",
+    "10-15",
+    "15-20",
+    "20-30",
+    "30-plus"
+  ],
+  "hillside_threshold_deg": 5,
+  "ring_count": 10,
+  "ring_area_ratio": 0.5,
+  "t1_area_multiplier": 6.0,
+  "elevation_tolerance_m": 0,
+  "lst_support_m": 100,
+  "dem_support_m": 30,
+  "t0_domain": "QTP-wide same-elevation other land after excluding impervious pixels and all T1 footprints",
+  "paper1_primary_outputs_used": false
+}

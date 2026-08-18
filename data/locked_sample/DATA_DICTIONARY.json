@@ -1,0 +1,9 @@
+{
+  "patch_thermal_all.csv": "One row per patch-year-season; primary Xu-method T1, regional same-elevation T0, DeltaT, support, slope and footprint elevation.",
+  "group_summary_all.csv": "Descriptive summaries by Xu slope class and 500 m elevation band.",
+  "locked_comparisons.csv": "2000-2020 endpoint changes and summer-minus-winter contrasts.",
+  "quality_audit.csv": "Coverage and reference-support audit.",
+  "endpoint_slope_patch_metrics.csv": "Patch-derived impervious area, patch count, mean area and patch-domain LSI by slope and year.",
+  "landscape_indices_2000_2020.csv": "Six Xu landscape metrics by slope and endpoint year.",
+  "slope_expansion_changes.csv": "Locked area changes and relative growth by slope class."
+}

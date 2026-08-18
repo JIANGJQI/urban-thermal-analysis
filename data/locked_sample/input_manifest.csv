@@ -1,0 +1,17 @@
+year,season,role,path,size_bytes,modified
+2000,summer,patches,D:\hill\数据输出\03_Results\patches\is_patches_2000.shp,3396160,1784889600.0211143
+2000,summer,lst,D:\hill\数据输出\04_LST\LST_2000_summer_albers.tif,1052432654,1784888554.2241683
+2000,summer,dem,D:\hill\数据输出\01_DEM_Slope\QTP_DEM_30m.tif,10759567888,1784791798.0492177
+2000,summer,impervious,D:\hill\数据输出\02_LandCover\QTP_IS_2000.tif,33444203,1784883816.8186169
+2000,winter,patches,D:\hill\数据输出\03_Results\patches\is_patches_2000.shp,3396160,1784889600.0211143
+2000,winter,lst,D:\hill\数据输出\04_LST\LST_2000_winter_albers.tif,1133120966,1784959081.2866724
+2000,winter,dem,D:\hill\数据输出\01_DEM_Slope\QTP_DEM_30m.tif,10759567888,1784791798.0492177
+2000,winter,impervious,D:\hill\数据输出\02_LandCover\QTP_IS_2000.tif,33444203,1784883816.8186169
+2020,summer,patches,D:\hill\数据输出\03_Results\patches\is_patches_2020.shp,3406208,1784886261.052288
+2020,summer,lst,D:\hill\数据输出\04_LST\LST_2020_summer_albers.tif,1062488259,1784982364.5719726
+2020,summer,dem,D:\hill\数据输出\01_DEM_Slope\QTP_DEM_30m.tif,10759567888,1784791798.0492177
+2020,summer,impervious,D:\hill\数据输出\02_LandCover\QTP_IS_2020.tif,33790545,1784802141.9122663
+2020,winter,patches,D:\hill\数据输出\03_Results\patches\is_patches_2020.shp,3406208,1784886261.052288
+2020,winter,lst,D:\hill\数据输出\04_LST\LST_2020_winter_albers.tif,1178386648,1784982408.8982184
+2020,winter,dem,D:\hill\数据输出\01_DEM_Slope\QTP_DEM_30m.tif,10759567888,1784791798.0492177
+2020,winter,impervious,D:\hill\数据输出\02_LandCover\QTP_IS_2020.tif,33790545,1784802141.9122663

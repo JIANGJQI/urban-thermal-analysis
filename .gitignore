@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large/internal analytical outputs not intended for the public repository
+data/locked_xu2026/
+data/processed/
+data/raw/
+*.pkl
+footprints_*.pkl
+patch_thermal_all.csv
+group_summary_all.csv
+locked_comparisons.csv
+warming_metrics_by_slope.csv
+pearson_landscape_warming.csv
+slope_expansion_changes.csv
+landscape_indices_2000_2020.csv
+endpoint_slope_patch_metrics.csv
+
+# Manuscript build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz

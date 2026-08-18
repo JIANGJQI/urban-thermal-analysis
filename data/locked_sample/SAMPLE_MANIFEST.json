@@ -1,0 +1,27 @@
+{
+  "sample_policy": "Deterministic public sample: at most one valid patch-level row per year, season, slope class, and 500 m elevation band. This sample preserves schema and analysis dimensions but is not the full analytical dataset.",
+  "source_dataset": "Internal locked_xu2026 dataset, not publicly released in full while the manuscript is unpublished.",
+  "patch_sample_rows": 144,
+  "included_files": [
+    "DATA_DICTIONARY.json",
+    "analysis_lock.json",
+    "input_hash_manifest.csv",
+    "input_manifest.csv",
+    "patch_thermal_sample.csv",
+    "quality_audit.csv",
+    "summary_sample.csv"
+  ],
+  "excluded_full_result_tables": [
+    "group_summary_all.csv",
+    "locked_comparisons.csv",
+    "warming_metrics_by_slope.csv",
+    "pearson_landscape_warming.csv",
+    "slope_expansion_changes.csv",
+    "landscape_indices_2000_2020.csv",
+    "endpoint_slope_patch_metrics.csv",
+    "patch_thermal_all.csv",
+    "patch_thermal_*.csv",
+    "summary_*.csv",
+    "footprints_*.pkl"
+  ]
+}
